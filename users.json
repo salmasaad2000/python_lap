@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "salma",
+        "last_name": "saad",
+        "email": "salma@gmail.com",
+        "password": "salma.2000",
+        "phone": "01110038214",
+        "activated": true
+    },
+    {
+        "first_name": "soo",
+        "last_name": "magdy",
+        "email": "soo@gmail.com",
+        "password": "soo.2",
+        "phone": "01111111111",
+        "activated": true
+    },
+    {
+        "first_name": "salma",
+        "last_name": "saad",
+        "email": "salma2@gmail.com",
+        "password": "sss",
+        "phone": "01111111111",
+        "activated": true
+    }
+]
